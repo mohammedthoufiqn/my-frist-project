@@ -1,2 +1,2 @@
 # my-frist-project
-This is my github first project
+This is my first git hub project
